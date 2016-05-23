@@ -38,6 +38,6 @@ object FlinkKafkaExample extends App {
 
   counts.print
 
-  env.execute("Flink Kafka Example")
+  env.execute("Flink Kafka Scala Example")
 
 }
